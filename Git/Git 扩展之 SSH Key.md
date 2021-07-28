@@ -8,7 +8,7 @@
 #### 创建命令
 创建时需要指定用户的邮件地址
 ```
-ssh-keygen -t rsa <-C "youremail@example.com">
+ssh-keygen -t rsa -C "youremail@example.com"
 ```
 
 ## SSH Key 的关联
